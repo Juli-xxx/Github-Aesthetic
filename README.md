@@ -50,8 +50,9 @@ sudo rm -rf sleep
 
 ---
 9. Tablas <br>
+tabla normalita
 | Nombre | Estado |
-|---     |---     |
+|---     |---    |
 | C      | ✅    |
 
 <table>
@@ -70,7 +71,7 @@ sudo rm -rf sleep
 </table>
 
 <br> <br>
-y acá yo habí hecho uno con mis materias y le metí una barra de progreso, puede ir otra cosa 
+y acá yo había hecho uno con mis materias y le metí una barra de progreso, puede ir otra cosa 
 <p align="center">
 
 | Año     | Estado         | Avance                                    |
