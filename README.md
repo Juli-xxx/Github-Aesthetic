@@ -10,7 +10,6 @@
 texto normal 
 
 2. Texto en negrita, cursiva, etc.
-<br>
 **texto negrita**
 <br>
 *texto cursiva*
