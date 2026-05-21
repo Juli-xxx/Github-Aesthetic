@@ -41,12 +41,12 @@ sudo rm -rf sleep
 - item
 
 ---
-8. numeradas
+8. numeradas --> si le metes tabs quedan con num romanos 
    1. hola
    2. chau
 
 ---
-9. Tablas
+9. Tablas <br>
 | Nombre | Estado |
 |---|---|
 | C | ✅ |
