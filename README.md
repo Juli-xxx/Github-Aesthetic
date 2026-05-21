@@ -4,7 +4,8 @@
    texto1 <br>
    texto2 <br>
 
-2. Encabezados (#) --> Cuantos más #, más chico el título.
+---
+1. Encabezados (#) --> Cuantos más #, más chico el título.
 # Título 1
 ## Título 2
 ### Título 3
@@ -30,6 +31,7 @@ sudo rm -rf sleep
 5. Citas
 > texto
 
+---
 6. Líneas divisorias
 ---
 
