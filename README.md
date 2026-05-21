@@ -51,8 +51,35 @@ sudo rm -rf sleep
 ---
 9. Tablas <br>
 | Nombre | Estado |
-|---|---|
-| C | ✅ |
+|---     |---     |
+| C      | ✅    |
+
+<table>
+<tr>
+<td valign="midle">
+<img alt="INeedToStudyMoreFasterCatGIF" src="https://github.com/user-attachments/assets/a7acdcec-90dd-43c0-bbea-7e00499d4874" width="220"/>
+</td>
+<td valign="midle">
+  <h4> N EL OTRO LUGAR LE METÍ UN GIFT PERO PUEDE IR OTRA COSA </h4>
+  Texto Random
+<br>
+  <h4> Titulo 2 </h4>
+  mas texto
+</td>
+</tr>
+</table>
+
+<br> <br>
+y acá yo habí hecho uno con mis materias y le metí una barra de progreso, puede ir otra cosa 
+<p align="center">
+
+| Año     | Estado         | Avance                                    |
+| ------- | -------------- | ----------------------------------------- |
+| 1 | ✅ | ![](https://progress-bar.xyz/100/?title=) |
+| 2 | 📍 | ![](https://progress-bar.xyz/25/?title=)  |
+| 3 | - | ![](https://progress-bar.xyz/0/?title=)  |
+| 4 | - | ![](https://progress-bar.xyz/36/?title=)   |
+| 5 | - | ![](https://progress-bar.xyz/5/?title=)  |
 
 ---
 10. otros
