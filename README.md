@@ -25,26 +25,31 @@ texto normal
 ```bash
 sudo rm -rf sleep
 ```
+
 ---
-4. Citas
+5. Citas
 > texto
 
-5. Líneas divisorias
+6. Líneas divisorias
 ---
 
-6. Listas
+---
+7. Listas
 - item
 - item
 
-numeradas
+---
+8. numeradas
 1. hola
 2. chau
 
-7. Tablas
+---
+9. Tablas
 | Nombre | Estado |
 |---|---|
 | C | ✅ |
 
-8. otros
+---
+10. otros
 <h2 align="center">Languages</h2>
 <p align="center">
