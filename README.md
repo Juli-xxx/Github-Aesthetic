@@ -11,13 +11,9 @@ texto normal
 
 ---
 2. Texto en negrita, cursiva, etc.
-**texto negrita**
-</p>
-*texto cursiva*
-<br>
-~~texto tachado~~
-<br>
-<br>
+**texto negrita**  <br>
+*texto cursiva*  <br>
+~~texto tachado~~  <br>
 
 ---
 4. Código / terminal
