@@ -4,6 +4,9 @@
    texto1 <br>
    texto2 <br>
 
+   O separadores visuales: 
+   hola&nbsp;&nbsp;&nbsp;chau
+
 ---
 1. Encabezados (#) --> Cuantos más #, más chico el título.
 # Título 1
