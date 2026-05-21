@@ -9,6 +9,7 @@
 ###### Título 6
 texto normal 
 
+---
 2. Texto en negrita, cursiva, etc.
 **texto negrita**
 </p>
@@ -18,12 +19,13 @@ texto normal
 <br>
 <br>
 
+---
 4. Código / terminal
 `codigo`
 ```bash
 sudo rm -rf sleep
 ```
-
+---
 4. Citas
 > texto
 
