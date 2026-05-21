@@ -10,11 +10,16 @@
 texto normal 
 
 2. Texto en negrita, cursiva, etc.
+<br>
 **texto negrita**
+<br>
 *texto cursiva*
+<br>
 ~~texto tachado~~
+<br>
+<br>
 
-3. Código / terminal
+4. Código / terminal
 `codigo`
 ```bash
 sudo rm -rf sleep
