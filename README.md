@@ -4,7 +4,7 @@
    texto1 <br>
    texto2 <br>
 
-   O separadores visuales: 
+   O separadores: <br>
    hola&nbsp;&nbsp;&nbsp;chau
 
 ---
