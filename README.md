@@ -35,7 +35,7 @@ sudo rm -rf sleep
 > texto
 
 ---
-6. Líneas divisorias
+6. Líneas divisorias escribiendo ---
 ---
 
 ---
