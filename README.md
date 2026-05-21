@@ -11,7 +11,7 @@ texto normal
 
 2. Texto en negrita, cursiva, etc.
 **texto negrita**
-<br>
+</p>
 *texto cursiva*
 <br>
 ~~texto tachado~~
