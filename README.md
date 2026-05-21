@@ -69,6 +69,8 @@ tabla normal
 
 <br>
 y acá yo había hecho uno con mis materias y le metí una barra de progreso, puede ir otra cosa 
+<p align="center">
+
 | Año     | Estado         | Avance                                    |
 | ------- | -------------- | ----------------------------------------- |
 | 1 | ✅ | ![](https://progress-bar.xyz/100/?title=) |
