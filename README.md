@@ -50,7 +50,7 @@ sudo rm -rf sleep
 
 ---
 9. Tabla
-<br>
+<br><br>
 tabla normal
 | Nombre | Estado |
 |---     |---    |
@@ -71,7 +71,7 @@ tabla normal
 </tr>
 </table>
 
-<br>
+<br><br>
 y acá yo había hecho uno con mis materias y le metí una barra de progreso, puede ir otra cosa 
 <p align="center">
 | Año     | Estado         | Avance                                    |
