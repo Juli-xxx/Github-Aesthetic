@@ -9,3 +9,19 @@
 ###### Título 6
 texto normal 
 
+2. Texto en negrita, cursiva, etc.
+**texto negrita**
+*texto cursiva*
+~~texto tachado~~
+
+3. Código / terminal
+`codigo`
+```bash
+sudo rm -rf sleep
+```
+
+4. Citas
+> texto
+
+5. Líneas divisorias
+---
