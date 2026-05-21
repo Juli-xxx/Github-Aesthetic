@@ -1,6 +1,10 @@
 # CÓSAS BÁSICAS DE TEXTO 
 
-1. Encabezados (#) --> Cuantos más #, más chico el título.
+0. Enter: escribimos "<br>"
+   texto1 <br>
+   texto2 <br>
+
+2. Encabezados (#) --> Cuantos más #, más chico el título.
 # Título 1
 ## Título 2
 ### Título 3
@@ -10,7 +14,7 @@
 texto normal 
 
 ---
-2. Texto en negrita, cursiva, etc.
+2. Texto en negrita, cursiva, etc.  <br>
 **texto negrita**  <br>
 *texto cursiva*  <br>
 ~~texto tachado~~  <br>
