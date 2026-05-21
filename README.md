@@ -42,8 +42,8 @@ sudo rm -rf sleep
 
 ---
 8. numeradas
-1. hola
-2. chau
+   1. hola
+   2. chau
 
 ---
 9. Tablas
