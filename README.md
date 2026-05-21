@@ -50,11 +50,7 @@ sudo rm -rf sleep
 
 ---
 9. Tabla
-<br><br>
 tabla normal
-| Nombre | Estado |
-|---     |---    |
-| C      | ✅    |
 
 <table>
 <tr>
