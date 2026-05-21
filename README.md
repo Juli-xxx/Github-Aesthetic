@@ -1,6 +1,6 @@
 # CÓSAS BÁSICAS DE TEXTO 
 
-0. Enter: escribimos < br y >
+0. Enter: escribimos < br >  <br>
    texto1 <br>
    texto2 <br>
 
