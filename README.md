@@ -29,3 +29,20 @@ sudo rm -rf sleep
 
 5. Líneas divisorias
 ---
+
+6. Listas
+- item
+- item
+
+numeradas
+1. hola
+2. chau
+
+7. Tablas
+| Nombre | Estado |
+|---|---|
+| C | ✅ |
+
+8. otros
+<h2 align="center">Languages</h2>
+<p align="center">
