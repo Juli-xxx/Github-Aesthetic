@@ -19,7 +19,7 @@ texto normal
 
 ---
 2. Texto en negrita, cursiva, etc.  <br>
-**texto negrita poniendo * * adelante y atras **  <br>
+**texto negrita poniendo "**" adelante y atras **  <br>
 *texto cursiva*  <br>
 ~~texto tachado~~  <br>
 
