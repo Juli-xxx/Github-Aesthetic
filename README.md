@@ -28,7 +28,12 @@ texto normal
 `codigo`
 ```bash
 sudo rm -rf sleep
+[ SYSTEM ]
+▰▰▰▰▰▰▰
+▰▱▱▱▱▱▱
+
 ```
+
 
 ---
 5. Citas
