@@ -19,9 +19,9 @@ texto normal
 
 ---
 2. Texto en negrita, cursiva, etc.  <br>
-**texto negrita poniendo "**" adelante y atras **  <br>
-*texto cursiva*  <br>
-~~texto tachado~~  <br>
+**texto negrita poniendo dos asteriscos adelante y atras **  <br>
+*texto cursiva poniendo 1 asterisco adelante y atras*  <br>
+~~texto tachado con dos wops (no se como se llaman)~~  <br>
 
 ---
 4. Código / terminal
