@@ -50,7 +50,7 @@ sudo rm -rf sleep
    2. chau
 
 ---
-9. Tabla
+9. Tabla <br>
 tabla normal
 
 <table>
@@ -59,7 +59,7 @@ tabla normal
 <img alt="INeedToStudyMoreFasterCatGIF" src="https://github.com/user-attachments/assets/a7acdcec-90dd-43c0-bbea-7e00499d4874" width="220"/>
 </td>
 <td valign="midle">
-  <h4> N EL OTRO LUGAR LE METÍ UN GIFT PERO PUEDE IR OTRA COSA </h4>
+  <h4> EN EL OTRO LUGAR LE METÍ UN GIFT PERO PUEDE IR OTRA COSA </h4>
   Texto Random
 <br>
   <h4> Titulo 2 </h4>
