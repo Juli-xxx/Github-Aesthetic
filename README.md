@@ -31,7 +31,6 @@ sudo rm -rf sleep
 
 ```
 
-
 ---
 5. Citas
 > texto
@@ -39,7 +38,7 @@ sudo rm -rf sleep
 ---
 6. Líneas divisorias escribiendo ---
 ---
-<br> <br>
+
 ---
 7. Listas
 - item
