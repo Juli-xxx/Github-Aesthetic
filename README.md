@@ -39,7 +39,7 @@ sudo rm -rf sleep
 ---
 6. Líneas divisorias escribiendo ---
 ---
-<br>
+<br> <br>
 ---
 7. Listas
 - item
