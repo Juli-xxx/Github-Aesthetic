@@ -1,4 +1,4 @@
-# CÓSAS BÁSICAS DE TEXTO 
+# CÓSAS BÁSICAS DE TEXTO en un readme.md
 
 0. Enter: escribimos < br >  <br>
    texto1 <br>
