@@ -16,7 +16,7 @@ texto normal
 
 ---
 2. Texto en negrita, cursiva, etc.  <br>
-**texto negrita poniendo dos asteriscos adelante y atras **  <br>
+**texto negrita poniendo dos asteriscos adelante y atras**  <br>
 *texto cursiva poniendo 1 asterisco adelante y atras*  <br>
 ~~texto tachado con dos wops (no se como se llaman)~~  <br>
 
