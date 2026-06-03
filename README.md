@@ -145,3 +145,14 @@ D8A7B1
 ![Pascal](https://img.shields.io/badge/XXXX-6F4E37?style=for-the-badge) <br>
 A0522D
 ![Pascal](https://img.shields.io/badge/XXXX-A0522D?style=for-the-badge) <br>
+
+### Oscuros 
+2B2B2B
+![Pascal](https://img.shields.io/badge/XXXX-2B2B2B?style=for-the-badge) <br>
+191970
+![Pascal](https://img.shields.io/badge/XXXX-191970?style=for-the-badge) <br>
+1A1A1A
+![Pascal](https://img.shields.io/badge/XXXX-1A1A1A?style=for-the-badge) <br>
+22223B
+![Pascal](https://img.shields.io/badge/XXXX-22223B?style=for-the-badge) <br>
+
