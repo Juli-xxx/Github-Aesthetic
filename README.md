@@ -93,9 +93,10 @@ y acá yo había hecho uno con mis materias y le metí una barra de progreso, pu
 <p align="center">
 texto
 </p>
+
 ---
 
-# colores 
+# COLORES  
 ### Rojos
 
 E34234
@@ -135,3 +136,12 @@ D8A7B1
 3E7C59
 ![Pascal](https://img.shields.io/badge/XXXX-3E7C59?style=for-the-badge) <br>
 
+### Marrones
+7B5E3B
+![Pascal](https://img.shields.io/badge/XXXX-7B5E3B?style=for-the-badge) <br>
+8C6239
+![Pascal](https://img.shields.io/badge/XXXX-8C6239?style=for-the-badge) <br>
+6F4E37
+![Pascal](https://img.shields.io/badge/XXXX-6F4E37?style=for-the-badge) <br>
+A0522D
+![Pascal](https://img.shields.io/badge/XXXX-A0522D?style=for-the-badge) <br>
