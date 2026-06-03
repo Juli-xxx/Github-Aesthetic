@@ -158,14 +158,6 @@ B7D7E8
 ![Pascal](https://img.shields.io/badge/XXXX-4ECDC4?style=for-the-badge) <br>
 26A69A
 ![Pascal](https://img.shields.io/badge/XXXX-26A69A?style=for-the-badge) <br>
-26A69A
-![Pascal](https://img.shields.io/badge/XXXX-26A69A?style=for-the-badge) <br>
-3EA89A
-![Pascal](https://img.shields.io/badge/XXXX-3EA89A?style=for-the-badge) <br>
-3EB5A8
-![Pascal](https://img.shields.io/badge/XXXX-3EB5A8?style=for-the-badge) <br>
-2EC4B6
-![Pascal](https://img.shields.io/badge/XXXX-2EC4B6?style=for-the-badge) <br>
 
 ### Verdes 
 7BA05B
