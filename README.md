@@ -171,6 +171,18 @@ B7D7E8
 3E7C59
 ![Pascal](https://img.shields.io/badge/XXXX-3E7C59?style=for-the-badge) <br>
 
+### Amarillos 
+FFC857
+![Pascal](https://img.shields.io/badge/XXXX-FFC857?style=for-the-badge) <br>
+FFCA3A
+![Pascal](https://img.shields.io/badge/XXXX-FFCA3A?style=for-the-badge) <br>
+D4A017
+![Pascal](https://img.shields.io/badge/XXXX-D4A017?style=for-the-badge) <br>
+E9C46A
+![Pascal](https://img.shields.io/badge/XXXX-E9C46A?style=for-the-badge) <br>
+FFD166
+![Pascal](https://img.shields.io/badge/XXXX-FFD166?style=for-the-badge) <br>
+
 ### Marrones
 7B5E3B
 ![Pascal](https://img.shields.io/badge/XXXX-7B5E3B?style=for-the-badge) <br>
