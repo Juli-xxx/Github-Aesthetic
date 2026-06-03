@@ -170,6 +170,8 @@ B7D7E8
 ![Pascal](https://img.shields.io/badge/XXXX-00552E?style=for-the-badge) <br>
 3E7C59
 ![Pascal](https://img.shields.io/badge/XXXX-3E7C59?style=for-the-badge) <br>
+3E8C73
+![Pascal](https://img.shields.io/badge/XXXX-3E8C73?style=for-the-badge) <br>
 
 ### Amarillos 
 FFC857
