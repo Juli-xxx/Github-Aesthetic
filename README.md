@@ -93,3 +93,9 @@ y acá yo había hecho uno con mis materias y le metí una barra de progreso, pu
 <p align="center">
 texto
 </p>
+---
+
+# colores 
+![Pascal](https://img.shields.io/badge/Pascal-B0B7C3?style=for-the-badge)
+![Pascal](https://img.shields.io/badge/Pascal-B0B7C3?style=for-the-badge)
+![Pascal](https://img.shields.io/badge/Pascal-B0B7C3?style=for-the-badge)![Pascal](https://img.shields.io/badge/Pascal-B0B7C3?style=for-the-badge)
