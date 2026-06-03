@@ -150,8 +150,6 @@ B7D7E8
 ![Pascal](https://img.shields.io/badge/XXXX-B7D7E8?style=for-the-badge) <br>
 5DADE2
 ![Pascal](https://img.shields.io/badge/XXXX-5DADE2?style=for-the-badge) <br>
-40E0D0
-![Pascal](https://img.shields.io/badge/XXXX-40E0D0?style=for-the-badge) <br>
 2EC4B6
 ![Pascal](https://img.shields.io/badge/XXXX-2EC4B6?style=for-the-badge) <br>
 4ECDC4
