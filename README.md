@@ -125,6 +125,15 @@ F4A896
 ![Pascal](https://img.shields.io/badge/XXXX-F4A896?style=for-the-badge) <br>
 FF7F50
 ![Pascal](https://img.shields.io/badge/XXXX-FF7F50?style=for-the-badge) <br>
+FF6F61
+![Pascal](https://img.shields.io/badge/XXXX-FF6F61?style=for-the-badge) <br>
+FF5A36
+![Pascal](https://img.shields.io/badge/XXXX-FF5A36?style=for-the-badge) <br>
+FF7043
+![Pascal](https://img.shields.io/badge/XXXX-FF7043?style=for-the-badge) <br>
+FF7755
+![Pascal](https://img.shields.io/badge/XXXX-FF7755?style=for-the-badge) <br>
+
 
 ### Azules
 264348
