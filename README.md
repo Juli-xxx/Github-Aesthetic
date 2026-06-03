@@ -96,6 +96,25 @@ texto
 ---
 
 # colores 
+### Rojos
+E34234   B7282E   8B1E3F   C23B22
+![Pascal](https://img.shields.io/badge/Pascal-E34234?style=for-the-badge)
+![Pascal](https://img.shields.io/badge/Pascal-B7282E?style=for-the-badge)
+![Pascal](https://img.shields.io/badge/Pascal-8B1E3F?style=for-the-badge)
+![Pascal](https://img.shields.io/badge/Pascal-C23B22?style=for-the-badge)
+
+### Rosas 
+F7CAC9
+E8A0BF
+D8A7B1
+![Pascal](https://img.shields.io/badge/Pascal-F7CAC9?style=for-the-badge)
+![Pascal](https://img.shields.io/badge/Pascal-E8A0BF?style=for-the-badge)
+![Pascal](https://img.shields.io/badge/Pascal-D8A7B1?style=for-the-badge)
+
+
+![Pascal](https://img.shields.io/badge/Pascal-C23B22?style=for-the-badge)
+
+
+
+
 ![Pascal](https://img.shields.io/badge/Pascal-B0B7C3?style=for-the-badge)
-![Pascal](https://img.shields.io/badge/Pascal-B0B7C3?style=for-the-badge)
-![Pascal](https://img.shields.io/badge/Pascal-B0B7C3?style=for-the-badge)![Pascal](https://img.shields.io/badge/Pascal-B0B7C3?style=for-the-badge)
