@@ -125,6 +125,12 @@ D8A7B1
 ![Pascal](https://img.shields.io/badge/XXXX-1E3A5F?style=for-the-badge) <br>
 8CA9C4
 ![Pascal](https://img.shields.io/badge/XXXX-8CA9C4?style=for-the-badge) <br>
+5DADE2
+![Pascal](https://img.shields.io/badge/XXXX-5DADE2?style=for-the-badge) <br>
+A7C7E7
+![Pascal](https://img.shields.io/badge/XXXX-A7C7E7?style=for-the-badge) <br>
+B7D7E8
+![Pascal](https://img.shields.io/badge/XXXX-B7D7E8?style=for-the-badge) <br>
 
 ### Verdes 
 7BA05B
