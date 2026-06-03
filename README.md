@@ -150,6 +150,11 @@ B7D7E8
 ![Pascal](https://img.shields.io/badge/XXXX-B7D7E8?style=for-the-badge) <br>
 5DADE2
 ![Pascal](https://img.shields.io/badge/XXXX-5DADE2?style=for-the-badge) <br>
+40E0D0
+![Pascal](https://img.shields.io/badge/XXXX-40E0D0?style=for-the-badge) <br>
+2EC4B6
+![Pascal](https://img.shields.io/badge/XXXX-2EC4B6?style=for-the-badge) <br>
+
 
 ### Verdes 
 7BA05B
@@ -160,6 +165,13 @@ B7D7E8
 ![Pascal](https://img.shields.io/badge/XXXX-00552E?style=for-the-badge) <br>
 3E7C59
 ![Pascal](https://img.shields.io/badge/XXXX-3E7C59?style=for-the-badge) <br>
+4ECDC4
+![Pascal](https://img.shields.io/badge/XXXX-4ECDC4?style=for-the-badge) <br>
+26A69A
+![Pascal](https://img.shields.io/badge/XXXX-26A69A?style=for-the-badge) <br>
+26A69A
+![Pascal](https://img.shields.io/badge/XXXX-26A69A?style=for-the-badge) <br>
+
 
 ### Marrones
 7B5E3B
