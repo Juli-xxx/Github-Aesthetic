@@ -97,27 +97,33 @@ texto
 
 # colores 
 ### Rojos
+
 E34234         
-![Pascal](https://img.shields.io/badge/Pascal-E34234?style=for-the-badge) <br>
+![Pascal](https://img.shields.io/badge/XXXX-E34234?style=for-the-badge) <br>
 B7282E 
-![Pascal](https://img.shields.io/badge/Pascal-B7282E?style=for-the-badge) <br>
+![Pascal](https://img.shields.io/badge/XXXX-B7282E?style=for-the-badge) <br>
 8B1E3F 
-![Pascal](https://img.shields.io/badge/Pascal-8B1E3F?style=for-the-badge) <br>
+![Pascal](https://img.shields.io/badge/XXXX-8B1E3F?style=for-the-badge) <br>
 C23B22
-![Pascal](https://img.shields.io/badge/Pascal-C23B22?style=for-the-badge) <br>
+![Pascal](https://img.shields.io/badge/XXXX-C23B22?style=for-the-badge) <br>
 
 ### Rosas 
+
 F7CAC9
+![Pascal](https://img.shields.io/badge/XXXX-F7CAC9?style=for-the-badge) <br>
 E8A0BF
+![Pascal](https://img.shields.io/badge/XXXX-E8A0BF?style=for-the-badge) <br>
 D8A7B1
-![Pascal](https://img.shields.io/badge/Pascal-F7CAC9?style=for-the-badge)
-![Pascal](https://img.shields.io/badge/Pascal-E8A0BF?style=for-the-badge)
-![Pascal](https://img.shields.io/badge/Pascal-D8A7B1?style=for-the-badge)
+![Pascal](https://img.shields.io/badge/XXXX-D8A7B1?style=for-the-badge) <br>
 
+### Azules
 
-![Pascal](https://img.shields.io/badge/Pascal-C23B22?style=for-the-badge)
+6C8EBF
+![Pascal](https://img.shields.io/badge/XXXX-6C8EBF?style=for-the-badge) <br>
+264348
+![Pascal](https://img.shields.io/badge/XXXX-264348?style=for-the-badge) <br>
+1E3A5F
+![Pascal](https://img.shields.io/badge/XXXX-1E3A5F?style=for-the-badge) <br>
+8CA9C4
+![Pascal](https://img.shields.io/badge/XXXX-8CA9C4?style=for-the-badge) <br>
 
-
-
-
-![Pascal](https://img.shields.io/badge/Pascal-B0B7C3?style=for-the-badge)
