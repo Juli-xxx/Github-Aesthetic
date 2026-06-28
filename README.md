@@ -15,8 +15,6 @@ Este es un texto normal pero con <mark>palabras resaltadas</mark>.
 ```javascript
 const mensaje = "Hola Mundo";
 ```
-<br>
-
 ```diff
 + Esta línea aparecerá con fondo verde (se añade un + al inicio)
 - Esta línea aparecerá con fondo rojo (se añade un - al inicio)
