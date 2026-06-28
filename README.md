@@ -18,7 +18,8 @@ const mensaje = "Hola Mundo";
 <br>
 <br>
 Texto Rojo: 
-$${\color{red}Texto \space en \space rojo}$$ <br>
+$${\color{red}Texto \space en \space rojo}$$
+<br>
 Texto Verde: 
 $${\color{green} Texto \space en \space verde}$$
 Texto Azul: 
