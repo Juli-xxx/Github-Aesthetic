@@ -16,12 +16,10 @@ Este es un texto normal pero con <mark>palabras resaltadas</mark>.
 const mensaje = "Hola Mundo";
 ```
 <br>
-<br>
 
 ```diff
 + Esta línea aparecerá con fondo verde (se añade un + al inicio)
 - Esta línea aparecerá con fondo rojo (se añade un - al inicio)
-! Esta línea suele aparecer en naranja o gris según el tema
 ```
 
 
