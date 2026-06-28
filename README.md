@@ -17,9 +17,12 @@ const mensaje = "Hola Mundo";
 ```
 <br>
 <br>
-Texto Rojo: $${\color{red}Texto \space en \space rojo}$$ <br>
-Texto Verde: $${\color{green} <br>
-Texto \space en \space verde}$$Texto Azul: $${\color{lightblue}Texto \space en \space azul}$$ <br>
+Texto Rojo: 
+$${\color{red}Texto \space en \space rojo}$$ <br>
+Texto Verde: 
+$${\color{green} Texto \space en \space verde}$$
+Texto Azul: 
+$${\color{lightblue}Texto \space en \space azul}$$ <br>
 
 # CÓSAS BÁSICAS DE TEXTO en un readme.md
 
