@@ -15,7 +15,11 @@ Este es un texto normal pero con <mark>palabras resaltadas</mark>.
 ```javascript
 const mensaje = "Hola Mundo";
 ```
-
+<br>
+<br>
+Texto Rojo: $${\color{red}Texto \space en \space rojo}$$ <br>
+Texto Verde: $${\color{green} <br>
+Texto \space en \space verde}$$Texto Azul: $${\color{lightblue}Texto \space en \space azul}$$ <br>
 
 # CÓSAS BÁSICAS DE TEXTO en un readme.md
 
