@@ -9,6 +9,7 @@
 > Elementos críticos que requieren atención inmediata.
 <br>
 Este es un texto normal pero con <mark>palabras resaltadas</mark>.
+<br>
 ```javascript
 const mensaje = "Hola Mundo";
 ```
