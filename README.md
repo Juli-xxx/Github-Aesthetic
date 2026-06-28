@@ -1,3 +1,13 @@
+> [!NOTE]
+> Información útil que el usuario debe saber.
+
+> [!IMPORTANT]
+> Información crucial necesaria para el éxito de la tarea.
+
+> [!WARNING]
+> Elementos críticos que requieren atención inmediata.
+
+
 # CÓSAS BÁSICAS DE TEXTO en un readme.md
 
 0. Enter: escribimos < br >  <br>
