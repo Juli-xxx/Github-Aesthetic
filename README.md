@@ -9,6 +9,9 @@
 > Elementos críticos que requieren atención inmediata.
 <br>
 Este es un texto normal pero con <mark>palabras resaltadas</mark>.
+```javascript
+const mensaje = "Hola Mundo";
+```
 
 
 # CÓSAS BÁSICAS DE TEXTO en un readme.md
