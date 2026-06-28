@@ -17,13 +17,13 @@ const mensaje = "Hola Mundo";
 ```
 <br>
 <br>
-Texto Rojo: 
-$${\color{red}Texto \space en \space rojo}$$
-<br>
-Texto Verde: 
-$${\color{green} Texto \space en \space verde}$$
-Texto Azul: 
-$${\color{lightblue}Texto \space en \space azul}$$ <br>
+
+```diff
++ Esta línea aparecerá con fondo verde (se añade un + al inicio)
+- Esta línea aparecerá con fondo rojo (se añade un - al inicio)
+! Esta línea suele aparecer en naranja o gris según el tema
+```
+
 
 # CÓSAS BÁSICAS DE TEXTO en un readme.md
 
