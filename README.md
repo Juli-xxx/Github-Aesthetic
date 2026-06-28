@@ -1,3 +1,4 @@
+# COLORES
 > [!NOTE]
 > Información útil que el usuario debe saber.
 
