@@ -10,7 +10,7 @@
 <br>
 Este es un texto normal pero con <mark>palabras resaltadas</mark>.
 <br>
-
+<br>
 ```javascript
 const mensaje = "Hola Mundo";
 ```
